@@ -1,0 +1,21 @@
+# Site settings
+title: #CodeAndCoffee
+header-img: img/home-bg.png
+email: geosaxe@gmail.com
+copyright_name: wsaxe
+description: > # this means to ignore newlines until "baseurl:"
+  A journey from zero to full-stack one morning coffee session at a time
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: wsaxe
+github_username:  wsaxe
+learn_profile: wsaxe
+email_username: geosaxe@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
