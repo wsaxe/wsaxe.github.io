@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adventures in Gem-Craft"
-date:   2016-07-26 02:24:54 +0000
+date:   2016-07-25 22:24:54 -0400
 ---
 
 
@@ -15,9 +15,9 @@ This program won't be useful to most users on it's own, but as part of a larger 
 
 SInce this is the most complex project I have been asked to do so far, I was a bit intimidated. Looking at some of the examples, I didn't believe that I had the skills yet to create something so complex:
 
-https://github.com/learn-co-curriculum/now-playing-cli-gem
+[https://github.com/learn-co-curriculum/now-playing-cli-gem](https://github.com/learn-co-curriculum/now-playing-cli-gem)
 
-https://github.com/dannyd4315/worlds-best-restaurants-cli-gem
+[https://github.com/dannyd4315/worlds-best-restaurants-cli-gem](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem)
 
 For a while, I just stared at this blank terminal/text editor:
 
@@ -35,6 +35,6 @@ Using this method, I was able to create a working program right away, and increm
 
 You can check out the finished CLI Gem here:
 
-https://github.com/wsaxe/bookworm-best-sellers
+[https://github.com/wsaxe/bookworm-best-sellers](https://github.com/wsaxe/bookworm-best-sellers)
 
-https://rubygems.org/gems/bookworm_best_sellers
+[https://rubygems.org/gems/bookworm_best_sellers](https://rubygems.org/gems/bookworm_best_sellers)
